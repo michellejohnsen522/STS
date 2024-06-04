@@ -15,7 +15,6 @@ struct CodeView: View {
     @State var user = User()
     @State var code = "22 22 22 22"
     @State var level = "1"
-    @State var credits = "100"
     
     @State var isSheetShown = false
     
@@ -61,15 +60,7 @@ struct CodeView: View {
                                 .padding(.vertical, 5)
                                 .foregroundColor(.white)
                                 .font(.system(size: 32, weight: .bold, design: .default))
-                            
-                            Text("Credits:")
-                                .foregroundColor(.white)
-                                .font(.system(size: 22, weight: .light, design: .monospaced))
-                            
-                            Text(credits)
-                                .padding(.vertical, 5)
-                                .foregroundColor(.white)
-                                .font(.system(size: 32, weight: .bold, design: .default))
+                     
                         }
                     }
                     .hideScrollIndicator()
@@ -110,7 +101,6 @@ struct CodeView: View {
             user = StorageManager.shared.getUser()
             code = user.code
             level = user.level
-            credits = "\(user.credits)"
         }
     }
 }

@@ -59,46 +59,6 @@ struct LocationView: View {
                 
                 Spacer()
                 
-                Rectangle()
-                    .frame(height: 150)
-                    .cornerRadius(12, corners: [.topLeft, .topRight])
-                    .overlay {
-                        VStack {
-                            Text("Open with:")
-                                .foregroundColor(.white)
-                            
-                            HStack {
-                                Button {
-                                    openAppleMaps()
-                                } label: {
-                                    Text("Apple Maps")
-                                        .foregroundColor(.black)
-                                        .font(.system(size: 16, weight: .regular))
-                                        .padding(10)
-                                        .background {
-                                            Rectangle()
-                                                .foregroundColor(.white)
-                                                .cornerRadius(8)
-                                        }
-                                }
-                                
-                                Button {
-                                    openGoogleMaps()
-                                } label: {
-                                    Text("Google Maps")
-                                        .foregroundColor(.black)
-                                        .font(.system(size: 16, weight: .regular))
-                                        .padding(10)
-                                        .background {
-                                            Rectangle()
-                                                .foregroundColor(.white)
-                                                .cornerRadius(8)
-                                        }
-                                }
-                            }
-                        }
-                    }
-                
             }
             .foregroundColor(.softBlue)
             .ignoresSafeArea()

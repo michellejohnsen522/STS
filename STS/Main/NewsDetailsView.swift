@@ -49,17 +49,6 @@ struct NewsDetailsView: View {
                                 .foregroundColor(.white)
                                 .font(.system(size: 20, weight: .regular))
                             
-                            if let url = news.url {
-                                Button {
-                                    openSafari(url: url)
-                                } label: {
-                                    Text("Open in Safari")
-                                        .padding()
-                                        .background(Color.white.cornerRadius(12))
-                                        .foregroundColor(.black)
-                                }
-                                .padding(.top)
-                            }
                         }
                         .padding()
                         .background(Color.softBlue.cornerRadius(12))

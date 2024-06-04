@@ -23,7 +23,7 @@ struct LoyalView: View {
                     .font(.system(size: 38, weight: .bold))
                     .padding(.top, 40)
                 
-                Text("STS Gaming provides its users with the opportunity to participate in the loyalty program, earn credits and level up. You can find out more below")
+                Text("STS Gaming provides its users with the opportunity to participate in the loyalty program and level up. You can find out more below")
                     .padding(.horizontal)
                     .padding(.top)
                     .foregroundColor(.gray)
