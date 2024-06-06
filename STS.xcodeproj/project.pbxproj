@@ -537,7 +537,7 @@
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = STS/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "STS Gaming Clubs";
+				INFOPLIST_KEY_CFBundleDisplayName = "KTO Gaming";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We collect this data for analytics and special offers in the menu for visitors";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "This identifier will be used to show you personalized ads on the marketplaces.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -578,7 +578,7 @@
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = STS/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "STS Gaming Clubs";
+				INFOPLIST_KEY_CFBundleDisplayName = "KTO Gaming";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We collect this data for analytics and special offers in the menu for visitors";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "This identifier will be used to show you personalized ads on the marketplaces.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;

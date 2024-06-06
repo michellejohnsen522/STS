@@ -78,28 +78,28 @@ struct HomeView: View {
                 
                 
                 VStack {
-                    Rectangle()
-                        .frame(height: screenSize().height < 737 ? 160 : 190)
-                        .cornerRadius(12)
-                        .foregroundColor(.lightBlue)
-                        .ignoresSafeArea()
-                        .shadow(color: .black, radius: 10)
-                        .overlay {
-                            HStack(spacing: 10) {
-                                
-                                Image("logo")
-                                    .resizable()
-                                    .frame(width: 75, height: 75)
-                                
-                                Text("Gaming")
-                                    .font(.system(size: 55, weight: .black))
-                                    .foregroundColor(Color.white)
-                            }
-                            .padding(.bottom, screenSize().height < 737 ? 0 : 80)
-                        }
-                    
-                    Spacer()
-                }
+                                    Rectangle()
+                                        .frame(height: screenSize().height < 737 ? 160 : 190)
+                                        .cornerRadius(12)
+                                        .foregroundColor(.lightBlue)
+                                        .ignoresSafeArea()
+                                        .shadow(color: .black, radius: 10)
+                                        .overlay {
+                                            VStack(spacing: -60) {
+                                                
+                                                Image("logo")
+                                                    .resizable()
+                                                    .frame(width: 155, height: 155)
+                                                
+                                                Text("Gaming")
+                                                    .font(.system(size: 55, weight: .black))
+                                                    .foregroundColor(Color.white)
+                                            }
+                                            .padding(.bottom, screenSize().height < 737 ? 40 : 120)
+                                        }
+                                    
+                                    Spacer()
+                                }
                 
             }
 
