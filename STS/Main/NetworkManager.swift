@@ -19,7 +19,7 @@ class NetworkManager {
     enum URLS: String {
         case categories = "https://api.jsonserve.com/jD_noB"
         case clubs = "https://api.jsonserve.com/c5p-Ng"
-        case news = "https://api.jsonserve.com/mAArS2"
+        case news = "https://api.jsonserve.com/pAWq6U"
     }
     
     static var shared = NetworkManager()
