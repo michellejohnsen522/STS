@@ -18,7 +18,7 @@ struct LoyalView: View {
             BackgroundView()
             
             VStack {
-                Text("Loyalty Programm")
+                Text("Loyalty Program")
                     .foregroundColor(.white)
                     .font(.system(size: 38, weight: .bold))
                     .padding(.top, 40)
@@ -49,7 +49,7 @@ struct LoyalView: View {
                                     Spacer()
                                     
                                     VStack {
-                                        Text("Beginer")
+                                        Text("Beginner")
                                             .font(.system(size: 22, weight: .regular, design: .monospaced))
                                             .foregroundColor(.white)
                                             .padding(.bottom)
