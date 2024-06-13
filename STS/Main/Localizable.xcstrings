@@ -33,6 +33,18 @@
             "value" : "Um"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noin"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62,6 +74,12 @@
             "state" : "translated",
             "value" : "Sobre"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Despre"
+          }
         }
       }
     },
@@ -77,6 +95,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anfänger"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Principiante"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aloittelija"
           }
         },
         "fr" : {
@@ -108,6 +138,12 @@
             "state" : "translated",
             "value" : "Principiante"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Începător"
+          }
         }
       }
     },
@@ -123,6 +159,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geburtstag"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cumpleaños"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Syntymäpäivä"
           }
         },
         "fr" : {
@@ -154,6 +202,12 @@
             "state" : "translated",
             "value" : "principiante"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zi de nastere"
+          }
         }
       }
     },
@@ -169,6 +223,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Code:"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código:"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koodi:"
           }
         },
         "fr" : {
@@ -200,6 +266,12 @@
             "state" : "translated",
             "value" : "Código:"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cod:"
+          }
         }
       }
     },
@@ -218,6 +290,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Datum"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fecha"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivämäärä"
           }
         },
         "fr" : {
@@ -249,6 +333,12 @@
             "state" : "translated",
             "value" : "Data"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data"
+          }
         }
       }
     },
@@ -264,6 +354,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Datum: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fecha: %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivämäärä: %@"
           }
         },
         "fr" : {
@@ -295,6 +397,12 @@
             "state" : "translated",
             "value" : "Data: %@"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data: %@"
+          }
         }
       }
     },
@@ -310,6 +418,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dauer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duración"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kesto"
           }
         },
         "fr" : {
@@ -341,6 +461,12 @@
             "state" : "translated",
             "value" : "Duração"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durată"
+          }
         }
       }
     },
@@ -356,6 +482,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dauer: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duración: %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kesto: %@"
           }
         },
         "fr" : {
@@ -387,6 +525,12 @@
             "state" : "translated",
             "value" : "Duração: %@"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durată: %@"
+          }
         }
       }
     },
@@ -402,6 +546,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bearbeiten"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muokata"
           }
         },
         "fr" : {
@@ -433,6 +589,12 @@
             "state" : "translated",
             "value" : "Editar"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edita"
+          }
         }
       }
     },
@@ -448,6 +610,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Email"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sähköposti"
           }
         },
         "fr" : {
@@ -479,6 +653,12 @@
             "state" : "translated",
             "value" : "E-mail"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
         }
       }
     },
@@ -494,6 +674,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gib deinen Namen ein"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introduzca su nombre"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kirjoita nimesi"
           }
         },
         "fr" : {
@@ -525,6 +717,12 @@
             "state" : "translated",
             "value" : "Digite seu nome"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introdu numele tau"
+          }
         }
       }
     },
@@ -540,6 +738,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spiele"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juegos"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelit"
           }
         },
         "fr" : {
@@ -565,6 +775,12 @@
             "state" : "translated",
             "value" : "Jogos"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jocuri"
+          }
         }
       }
     },
@@ -580,6 +796,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spiele"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juego de azar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelaaminen"
           }
         },
         "fr" : {
@@ -605,6 +833,12 @@
             "state" : "translated",
             "value" : "Jogos"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jocuri"
+          }
         }
       }
     },
@@ -620,6 +854,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gaming-Clubs"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clubes de juego"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peliklubit"
           }
         },
         "fr" : {
@@ -651,6 +897,12 @@
             "state" : "translated",
             "value" : "Clubes de jogos"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cluburi de jocuri"
+          }
         }
       }
     },
@@ -666,6 +918,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stunde"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tunnin"
           }
         },
         "fr" : {
@@ -697,6 +961,12 @@
             "state" : "translated",
             "value" : "Hora"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora"
+          }
         }
       }
     },
@@ -712,6 +982,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ebene"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taso"
           }
         },
         "fr" : {
@@ -743,6 +1025,12 @@
             "state" : "translated",
             "value" : "Nível"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel"
+          }
         }
       }
     },
@@ -758,6 +1046,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ebene:"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel:"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taso:"
           }
         },
         "fr" : {
@@ -789,6 +1089,12 @@
             "state" : "translated",
             "value" : "Nível:"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel:"
+          }
         }
       }
     },
@@ -804,6 +1110,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Loyalität"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lealtad"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uskollisuus"
           }
         },
         "fr" : {
@@ -835,6 +1153,12 @@
             "state" : "translated",
             "value" : "Lealdade"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loialitate"
+          }
         }
       }
     },
@@ -850,6 +1174,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Treueprogramm"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Programa de fidelidad"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanta-asiakasohjelma"
           }
         },
         "fr" : {
@@ -881,6 +1217,12 @@
             "state" : "translated",
             "value" : "Programa de lealdade"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Program de fidelizare"
+          }
         }
       }
     },
@@ -896,6 +1238,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Machen Sie eine Reservierung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hacer una reserva"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tee varaus"
           }
         },
         "fr" : {
@@ -927,6 +1281,12 @@
             "state" : "translated",
             "value" : "Faça uma reserva"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fă o rezervă"
+          }
         }
       }
     },
@@ -942,6 +1302,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Name"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimi"
           }
         },
         "fr" : {
@@ -973,6 +1345,12 @@
             "state" : "translated",
             "value" : "Nome"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nume"
+          }
         }
       }
     },
@@ -988,6 +1366,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Name: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre: %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimi: %@"
           }
         },
         "fr" : {
@@ -1019,6 +1409,12 @@
             "state" : "translated",
             "value" : "Nome: %@"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nume: %@"
+          }
         }
       }
     },
@@ -1034,6 +1430,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nachricht:"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noticias:"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uutiset:"
           }
         },
         "fr" : {
@@ -1065,6 +1473,12 @@
             "state" : "translated",
             "value" : "Notícias:"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Știri:"
+          }
         }
       }
     },
@@ -1080,6 +1494,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Telefon"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teléfono"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puhelin"
           }
         },
         "fr" : {
@@ -1111,6 +1537,12 @@
             "state" : "translated",
             "value" : "Telefone"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefon"
+          }
         }
       }
     },
@@ -1126,6 +1558,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Telefonnummer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número de teléfono"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puhelinnumero"
           }
         },
         "fr" : {
@@ -1157,6 +1601,12 @@
             "state" : "translated",
             "value" : "Número de telefone"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Număr de telefon"
+          }
         }
       }
     },
@@ -1172,6 +1622,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spieler"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jugadores"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelaajat"
           }
         },
         "fr" : {
@@ -1203,6 +1665,12 @@
             "state" : "translated",
             "value" : "Jogadoras"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jucători"
+          }
         }
       }
     },
@@ -1218,6 +1686,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spieler: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jugadores: %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelaajat: %@"
           }
         },
         "fr" : {
@@ -1249,6 +1729,12 @@
             "state" : "translated",
             "value" : "Jogadoras: %@"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jucători: %@"
+          }
         }
       }
     },
@@ -1264,6 +1750,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bevorzugte Spiele | Zusatzinfos"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juegos preferidos | Información adicional"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suositellut pelit | Lisätiedot"
           }
         },
         "fr" : {
@@ -1295,6 +1793,12 @@
             "state" : "translated",
             "value" : "Jogos preferidos | Informações adicionais"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jocuri preferate | Informații suplimentare"
+          }
         }
       }
     },
@@ -1310,6 +1814,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Datenschutzrichtlinie"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Política de privacidad"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tietosuojakäytäntö"
           }
         },
         "fr" : {
@@ -1341,6 +1857,12 @@
             "state" : "translated",
             "value" : "política de Privacidade"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Politica de confidențialitate"
+          }
         }
       }
     },
@@ -1356,6 +1878,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erhalten Sie 5% Rabatt auf Zimmermieten ab der ersten Stunde"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recibe un 5% de Descuento en el Alquiler de Habitaciones a Partir de la Primera Hora"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat 5 %:n alennuksen huonevuokrasta ensimmäisestä tunnista alkaen"
           }
         },
         "fr" : {
@@ -1387,6 +1921,12 @@
             "state" : "translated",
             "value" : "Receba um desconto de 5% no aluguel de salas a partir da primeira hora"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primiți o reducere de 5% la închirierea camerelor începând cu prima oră"
+          }
         }
       }
     },
@@ -1402,6 +1942,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erhalten Sie 10 % Rabatt.\nMöglichkeit, Ihren Fortschritt in Story-Spielen zu speichern."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recibe un 10% de descuento.\nPosibilidad de guardar tu progreso en juegos de historia."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat 10% alennuksen.\nMahdollisuus tallentaa edistymisesi tarinapeleissä."
           }
         },
         "fr" : {
@@ -1433,6 +1985,12 @@
             "state" : "translated",
             "value" : "Receba um desconto de 10%.\nCapacidade de salvar seu progresso em jogos de história."
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primiți o reducere de 10%.\nAbilitatea de a vă salva progresul în jocurile de poveste."
+          }
         }
       }
     },
@@ -1448,6 +2006,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erhalten Sie 15 % Rabatt.\nAlle vorherigen Verbesserungen + die Möglichkeit zur Teilnahme an Spielverlosungen sowie Zugang zu Sonderveranstaltungen."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recibe un 15% de descuento.\nTodas las mejoras anteriores + la posibilidad de participar en sorteos del juego, así como el acceso a eventos especiales."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat 15% alennuksen.\nKaikki aiemmat parannukset + mahdollisuus osallistua pelin arvontaan sekä pääsy erikoistapahtumiin."
           }
         },
         "fr" : {
@@ -1479,6 +2049,12 @@
             "state" : "translated",
             "value" : "Receba um desconto de 15%.\nTodas as melhorias anteriores + a capacidade de participar de sorteios de jogos, bem como acesso a eventos especiais."
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primiți o reducere de 15%.\nToate îmbunătățirile anterioare + posibilitatea de a participa la extrageri, precum și acces la evenimente speciale."
+          }
         }
       }
     },
@@ -1494,6 +2070,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Melde einen technischen Fehler"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reportar un error"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ilmoita virheestä"
           }
         },
         "fr" : {
@@ -1525,6 +2113,12 @@
             "state" : "translated",
             "value" : "Reportar um erro"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raporteaza o eroare"
+          }
         }
       }
     },
@@ -1540,6 +2134,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reservierung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reserva"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varaus"
           }
         },
         "fr" : {
@@ -1571,6 +2177,12 @@
             "state" : "translated",
             "value" : "Reserva"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rezervare"
+          }
         }
       }
     },
@@ -1586,6 +2198,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reservierungen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reservaciones"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varaukset"
           }
         },
         "fr" : {
@@ -1617,6 +2241,12 @@
             "state" : "translated",
             "value" : "Reservas"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rezervări"
+          }
         }
       }
     },
@@ -1632,6 +2262,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reservieren"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reservar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varata"
           }
         },
         "fr" : {
@@ -1663,6 +2305,12 @@
             "state" : "translated",
             "value" : "reserva"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rezervă"
+          }
         }
       }
     },
@@ -1678,6 +2326,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Speichern"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahorrar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallentaa"
           }
         },
         "fr" : {
@@ -1709,6 +2369,12 @@
             "state" : "translated",
             "value" : "Salvar"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvați"
+          }
         }
       }
     },
@@ -1724,6 +2390,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Land auswählen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar país"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valitse maa"
           }
         },
         "fr" : {
@@ -1755,6 +2433,12 @@
             "state" : "translated",
             "value" : "Selecione o pais"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecteaza tara"
+          }
         }
       }
     },
@@ -1770,6 +2454,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Service"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Servicio"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palvelu"
           }
         },
         "fr" : {
@@ -1801,6 +2497,12 @@
             "state" : "translated",
             "value" : "Serviço"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serviciu"
+          }
         }
       }
     },
@@ -1816,6 +2518,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einstellungen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asetukset"
           }
         },
         "fr" : {
@@ -1847,6 +2561,12 @@
             "state" : "translated",
             "value" : "Configurações"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setări"
+          }
         }
       }
     },
@@ -1862,6 +2582,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeigen Sie dem Manager den QR-Code"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar el código QR al gerente"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Näytä QR-koodi johtajalle"
           }
         },
         "fr" : {
@@ -1893,6 +2625,12 @@
             "state" : "translated",
             "value" : "Mostre o código QR ao gerente"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afișați codul QR managerului"
+          }
         }
       }
     },
@@ -1908,6 +2646,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Startzeit"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora de inicio"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aloitusaika"
           }
         },
         "fr" : {
@@ -1939,6 +2689,12 @@
             "state" : "translated",
             "value" : "Hora de início"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timpul de începere"
+          }
         }
       }
     },
@@ -1954,6 +2710,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "STS Gaming bietet seinen Nutzern die Möglichkeit, am Treueprogramm teilzunehmen und aufzusteigen. Mehr dazu erfahren Sie weiter unten"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STS Gaming ofrece a sus usuarios la oportunidad de participar en el programa de fidelización y subir de nivel. Puedes obtener más información a continuación"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STS Gaming tarjoaa käyttäjilleen mahdollisuuden osallistua kanta-asiakasohjelmaan ja nousta tasolle. Voit lukea lisää alta"
           }
         },
         "fr" : {
@@ -1985,6 +2753,12 @@
             "state" : "translated",
             "value" : "A STS Gaming oferece aos seus usuários a oportunidade de participar do programa de fidelidade e subir de nível. Você pode descobrir mais abaixo"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STS Gaming oferă utilizatorilor săi posibilitatea de a participa la programul de loialitate și de a crește nivelul. Puteți afla mai multe mai jos"
+          }
         }
       }
     },
@@ -2000,6 +2774,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verbesserungsvorschlag"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sugerir mejoras"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ehdota parannusta"
           }
         },
         "fr" : {
@@ -2031,6 +2817,12 @@
             "state" : "translated",
             "value" : "Sugira melhoria"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sugerați îmbunătățiri"
+          }
         }
       }
     },
@@ -2046,6 +2838,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unterstützung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apoyo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuki"
           }
         },
         "fr" : {
@@ -2077,6 +2881,12 @@
             "state" : "translated",
             "value" : "Apoiar"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A sustine"
+          }
         }
       }
     },
@@ -2092,6 +2902,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nachname"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apellido"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sukunimi"
           }
         },
         "fr" : {
@@ -2123,6 +2945,12 @@
             "state" : "translated",
             "value" : "Sobrenome"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nume de familie"
+          }
         }
       }
     },
@@ -2138,6 +2966,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Die Nachricht wurde in die Zwischenablage kopiert."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El mensaje ha sido copiado al portapapeles."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viesti on kopioitu leikepöydälle."
           }
         },
         "fr" : {
@@ -2169,6 +3009,12 @@
             "state" : "translated",
             "value" : "A mensagem foi copiada para a área de transferência."
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesajul a fost copiat în clipboard."
+          }
         }
       }
     },
@@ -2184,6 +3030,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Diese Informationen werden für die Reservierung von Zimmern in Clubs verwendet."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta información se utilizará para reservar habitaciones en clubes."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Näitä tietoja käytetään huoneiden varaamiseen klubeissa."
           }
         },
         "fr" : {
@@ -2215,6 +3073,12 @@
             "state" : "translated",
             "value" : "Essas informações serão usadas para reservar quartos em clubes."
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aceste informații vor fi folosite pentru a rezerva camere în cluburi."
+          }
         }
       }
     },
@@ -2230,6 +3094,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeit: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiempo: %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aika: %@"
           }
         },
         "fr" : {
@@ -2261,6 +3137,12 @@
             "state" : "translated",
             "value" : "Tempo: %@"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora: %@"
+          }
         }
       }
     },
@@ -2276,6 +3158,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echter Gamer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verdadero jugador"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todellinen pelaaja"
           }
         },
         "fr" : {
@@ -2307,6 +3201,12 @@
             "state" : "translated",
             "value" : "Verdadeiro jogador"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jucător adevărat"
+          }
         }
       }
     },
@@ -2322,6 +3222,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verwendung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uso"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käyttö"
           }
         },
         "fr" : {
@@ -2353,6 +3265,12 @@
             "state" : "translated",
             "value" : "Uso"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilizare"
+          }
         }
       }
     },
@@ -2368,6 +3286,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nutzerdetails"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalles de usuario"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käyttäjän tiedot"
           }
         },
         "fr" : {
@@ -2399,6 +3329,12 @@
             "state" : "translated",
             "value" : "Detalhes do usuario"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalii utilizator"
+          }
         }
       }
     },
@@ -2414,6 +3350,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VIP-Spieler"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jugador VIP"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VIP-pelaaja"
           }
         },
         "fr" : {
@@ -2445,6 +3393,12 @@
             "state" : "translated",
             "value" : "Jogador VIP"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jucător VIP"
+          }
         }
       }
     },
@@ -2460,6 +3414,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Willkommen!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Bienvenido!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tervetuloa!"
           }
         },
         "fr" : {
@@ -2491,6 +3457,12 @@
             "state" : "translated",
             "value" : "Bem-vindo!"
           }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bine ati venit!"
+          }
         }
       }
     },
@@ -2506,6 +3478,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deine E-Mail"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu correo electrónico"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sähköpostisi"
           }
         },
         "fr" : {
@@ -2536,6 +3520,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seu email"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email-ul tau"
           }
         }
       }
